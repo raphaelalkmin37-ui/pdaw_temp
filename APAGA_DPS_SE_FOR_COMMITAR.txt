@@ -1,0 +1,94 @@
+3.3. Detalhes do produto
+
+A página deverá apresentar informações mais completas sobre o produto selecionado. Deverá conter,
+
+no mínimo:
+
+ nome do produto;
+
+ imagem principal;
+
+ imagens adicionais;
+
+ preço;
+
+ descrição detalhada;
+
+ nota média;
+
+ quantidade ou indicação de avaliações;
+
+ comentários de compradores;
+
+ botão Comprar.
+
+Desenvolvimento de Aplicações Web Front-end • Trabalho Prático
+
+Os comentários poderão ser fictícios, mas deverão ser apresentados de maneira coerente com uma
+
+interface real de e-commerce.
+
+O botão Comprar deverá funcionar como um link e direcionar o usuário para a página de checkout.
+
+Não é necessário criar uma página de detalhes diferente para cada um dos 10 produtos. É permitido
+
+criar uma página representativa de detalhes de um produto, desde que a navegação a partir do
+
+catálogo esteja implementada.
+
+
+
+============================================================================================================================
+
+
+3.4. Checkout
+
+A página de checkout deverá representar de maneira completa o processo de finalização de uma
+
+compra.
+
+Produto/compra:
+
+ produto sendo adquirido;
+
+ imagem;
+
+ quantidade;
+
+ preço unitário;
+
+ subtotal;
+
+ frete;
+
+ valor total da compra.
+
+Dados do comprador:
+
+Criar um formulário contendo informações adequadas para identificação do comprador.
+
+Endereço de entrega:
+
+O formulário deverá conter campos apropriados para representar um endereço completo de entrega.
+
+Forma de pagamento:
+
+A interface deverá permitir visualizar e/ou selecionar diferentes formas de pagamento, como, por
+
+exemplo:
+
+ cartão de crédito;
+
+ PIX;
+
+ boleto.
+
+Quando apropriado, deverão ser apresentados campos relacionados à forma de pagamento escolhida,
+
+como dados de cartão.
+
+Finalização:
+
+Deverá existir um botão que represente a ação de finalizar a compra. Nenhum pagamento será
+
+realmente processado.
